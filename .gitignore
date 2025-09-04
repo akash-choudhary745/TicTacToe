@@ -1,0 +1,10 @@
+# Ignore compiled class files
+*.class
+
+# Ignore bin folder
+/bin/
+
+# Ignore IDE specific files
+/.idea/
+/.vscode/
+/*.iml
